@@ -1,0 +1,11 @@
+body {
+  background-image: url(images/sonn.jpg);
+}
+h1 {
+  color: orange;
+  font-family:sans-serif;
+}
+.profile {
+  font-display: block;
+  display:inline;
+}
