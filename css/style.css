@@ -1,9 +1,10 @@
 body {
-  background-image: url(images/sonn.jpg);
+  padding: 20px;
 }
 h1 {
   color: orange;
   font-family:sans-serif;
+  border-radius: 2px;
 }
 .profile {
   font-display: block;
