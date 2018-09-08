@@ -1,33 +1,78 @@
 body {
-  background-image: url(http://no-limit.info/travel/services/wp-content/uploads/2014/12/switzerland_1.jpg);
-  background-repeat: no-repeat;
-  background-size:cover;
-  border-color: purple;
+  border-color: red;
   padding: 20px;
   border-style: outset;
   border-width: 6px;
   margin-right: auto;
+  font-weight: 100px;
+  opacity: 10px;
 }
+.container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url(http://rosarotezeilen.com/wp-content/uploads/2018/08/charming-beatiful-nature-6-38797745-beautiful-wallpapers-cool-7.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+#overlay {
+    position: absolute;
+    overflow: auto;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+nav {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 10px 0;
+  margin-right: 0%;
+}
+ul  {
+  text-align: right;
+}
+li  {
+  display: inline-block;
+}
+nav>ul>li>a {
+padding: 18px;
+margin-right: 0;
+text-transform: uppercase;
+text-decoration: none;
+display: block;
+color: white;
+}
+nav>ul>li>a:hover {
+box-shadow: 0 0 10px rgba(blue), insert 0 0 1px rgba(brown);
+background: rgba(brown);
+color: rgba(blue);
+}
+
 h1 {
-  color: orange;
+  color: white;
   font-family: "Times New Roman", Times, serif;
-  border-bottom: 5px;
-  font-size: 30px;
-  float: right 20px;
+  font-size: 35px;
+  text-align: center;
 }
-.profile {
-  font-display: block;
-  display:inline;
-}
-.Background {
+.Profile {
   color: white;
   font-size: 20px;
-}
+  text-align: center;
+
+  }
 .Education {
   color: white;
   font-size: 20px;
+  text-align: center;
 }
 .Work-Experience {
   color: white;
   font-size: 20px;
+  text-align: center;
 }
