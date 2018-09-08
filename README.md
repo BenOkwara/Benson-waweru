@@ -12,7 +12,7 @@ This website is about a brief description of who Benson is. It entails his:
 To give more details about myself which was part of my interview.
 
 ##### **Technologies Used**
-I have used navigation bar, un ordely lists, class selector, emphasize tags
+HTML and css
 
 __Contact__
 Author: Benson Waweru OKWARA
