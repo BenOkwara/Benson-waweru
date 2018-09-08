@@ -1,10 +1,13 @@
 body {
+  background-image: url(https://photofocus.com/wp-content/uploads/2016/07/Sprague-Lake-Rocky-Mountain-National-Park-3.jpg);
+  background-repeat: around;
   padding: 20px;
 }
 h1 {
   color: orange;
   font-family:sans-serif;
   border-radius: 2px;
+  font-size: 20px
 }
 .profile {
   font-display: block;
