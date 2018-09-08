@@ -1,15 +1,33 @@
 body {
-  background-image: url(https://photofocus.com/wp-content/uploads/2016/07/Sprague-Lake-Rocky-Mountain-National-Park-3.jpg);
-  background-repeat: around;
+  background-image: url(http://no-limit.info/travel/services/wp-content/uploads/2014/12/switzerland_1.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  border-color: purple;
   padding: 20px;
+  border-style: outset;
+  border-width: 6px;
+  margin-right: auto;
 }
 h1 {
   color: orange;
-  font-family:sans-serif;
-  border-radius: 2px;
-  font-size: 20px
+  font-family: "Times New Roman", Times, serif;
+  border-bottom: 5px;
+  font-size: 30px;
+  float: right 20px;
 }
 .profile {
   font-display: block;
   display:inline;
+}
+.Background {
+  color: white;
+  font-size: 20px;
+}
+.Education {
+  color: white;
+  font-size: 20px;
+}
+.Work-Experience {
+  color: white;
+  font-size: 20px;
 }
