@@ -1,5 +1,3 @@
-# Benson-waweru
-
 ## __BENSON WAWERU OKWARA__
 
 I Am in Prep-Class at Moringa School
