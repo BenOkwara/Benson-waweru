@@ -1,6 +1,9 @@
-body {
-  font-weight: 100px;
-  padding-left: 10px;
+@media screen and (min-width: 480px) and (max-width: 760px) {
+  body {
+    font-weight: 100px;
+    padding-left: 10px;
+  }
+
 }
 .contigent {
     top: 0;
@@ -12,7 +15,6 @@ body {
     background-repeat: repeat;
     background-size: cover;
 }
-
 #overlay {
     overflow: auto;
     top: 0;
